@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 Documentation
+    url: https://smallpict.app/docs
+    about: Guides, API reference and examples for every SDK.
+  - name: 💳 Account, billing or API keys
+    url: https://smallpict.app/contact
+    about: Contact support privately so your account details stay safe.
+  - name: 🔒 Report a security vulnerability
+    url: https://github.com/smallPict/.github/blob/main/SECURITY.md
+    about: Email security@smallpict.app. Please do not open a public issue.
